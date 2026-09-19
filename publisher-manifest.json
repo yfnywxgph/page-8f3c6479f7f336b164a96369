@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "c4a57df1239b5b7fb025a207",
+  "owner": "yfnywxgph",
+  "repo": "page-8f3c6479f7f336b164a96369",
+  "title": "免费订阅分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8f3c6479f7f336b164a96369",
+      "a": "KyCloud",
+      "b": "免费订阅分享",
+      "entity": "KyCloud",
+      "brand": "免费订阅分享",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ccca531c74d7b8f19f1bb7f04308420189859410d60a995c10f35145592032e9",
+      "content": {
+        "primary_entity": "KyCloud",
+        "keyword1": "KyCloud",
+        "keyword2": "免费订阅分享",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定海外加速的用户，提供多档订阅与设备选择，客户端按系统匹配，订阅信息在购买后获得。",
+          "AI_HERO_SUBTITLE": "连接全球节点的加速方案",
+          "AI_HERO_INTRO": "KyCloud 提供多档海外加速订阅，覆盖个人与团队场景。按设备数量与流量需求挑选套餐，客户端按系统匹配，订阅配置流程简洁清晰。",
+          "AI_VISUAL_TITLE": "KyCloud 全球加速",
+          "AI_HIGHLIGHT_1": "多档订阅按需选择",
+          "AI_HIGHLIGHT_2": "多设备同时在线支持",
+          "AI_HIGHLIGHT_3": "专属线路优化流媒体",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURES_INTRO": "从设备数量与流量用量出发，挑选合适的订阅周期。",
+          "AI_FEATURE_TITLE_1": "按设备挑套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。",
+          "AI_FEATURE_TITLE_2": "关注流量额度",
+          "AI_FEATURE_TEXT_2": "100GB、300GB 与 1000GB 分别对应不同使用强度。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付方案将整体费用进一步降低。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，安装后导入订阅信息即可使用。",
+          "AI_PLANS_TITLE": "订阅套餐对比",
+          "AI_PLANS_INTRO": "三档套餐覆盖从个人到团队，流量与设备上限逐级提升。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "确认需求、核对适配、按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量，在基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端支持情况，留意同时在线设备上限。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "安装匹配客户端，按文档导入订阅信息，完成后即可连接节点。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定订阅，再依客户端文档完成配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "KyCloud 套餐如何区分？",
+          "AI_FAQ_ANSWER_1": "基础版月流量 100GB、3 台设备；旗舰版 300GB、5 台设备并含 IPLC 专线；团队版 1000GB、20 台设备，适合团队协作。",
+          "AI_FAQ_QUESTION_2": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_2": "三个版本的年付价格均为十个月月费，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_QUESTION_3": "订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_3": "各套餐有对应的同时在线设备数上限，基础版 3 台、旗舰版 5 台、团队版 20 台，超出数量需升级套餐。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅信息？",
+          "AI_FAQ_ANSWER_4": "在对应客户端内找到订阅配置入口，按照客户端文档提示粘贴订阅地址完成导入，不同客户端的菜单名称略有差异。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版适合企业或多成员共享使用，提供 1000GB 月流量、20 台设备、VIP 高带宽节点与专属客户经理支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a06a0bc3dd3cfca760bea2f6638aa52a18ffc903d957aa55692a755d9ed95b9f",
+    "sitemap.xml": "2d8f87cc81392c01d3743eac42955d0d4ec61c6a069625543c5cf1fa7871d580",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "fe9e323788f68b5c0fa56ced7d3fcb4ad8c7fa2008e347617cd1b9c6f99e4f06"
+}
